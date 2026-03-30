@@ -1,2 +1,2 @@
 # My-First-Game-Project
-Hi, thats my first project where i made a game using python language
+Hi, A basic Python zombie game that runs in the terminal, made for learning and practice.
