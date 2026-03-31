@@ -1,2 +1,2 @@
 # My-First-Game-Project
-Hi, A basic Python zombie game that runs in the terminal, made for learning and practice.
+A basic Python zombie game that runs in the terminal, built using OOP fundamentals for learning and practice.
